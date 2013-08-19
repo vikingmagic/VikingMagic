@@ -3,6 +3,8 @@
 
     <string name="app_name">Viking Magic</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
-
+    <string name="startgame">Start Game</string>
+    <string name="options">Options</string>
+    <string name="statistics">Statistics</string>
+    <string name="playersetup">Player Setup</string>
 </resources>
